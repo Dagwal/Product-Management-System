@@ -6,7 +6,6 @@ A web-based Product Management System to manage and track products, allowing you
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -24,13 +23,6 @@ The Product Management System is a web application that enables users to manage 
 - Edit existing product information.
 - View detailed product information.
 - Mark products as "Out of Stock."
-- User-friendly web interface.
-
-## Demo
-
-Include a link to a live demo of your project if available.
-
-[Live Demo](#)
 
 ## Getting Started
 
