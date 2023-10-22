@@ -94,7 +94,3 @@ Security Note: While the system is functional, it's essential to ensure that app
 ### Contributing
 
 I'll welcome contributions from the community.
-
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
